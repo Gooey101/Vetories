@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "216868935786",
+    "firebase_url": "https://vetories-f12ae.firebaseio.com",
+    "project_id": "vetories-f12ae",
+    "storage_bucket": "vetories-f12ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216868935786:android:89c8bf71e4b70769",
+        "android_client_info": {
+          "package_name": "com.example.christophergu.vetories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216868935786-gcsf49kn6cuerns94um96evhk51g5f1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christophergu.vetories",
+            "certificate_hash": "73d4c885f0aca7c7f7848e0f5ece5e24fb58b043"
+          }
+        },
+        {
+          "client_id": "216868935786-6eg4refh9nofaus7gbnjs1dmp44m3vfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNTB0xHoHRQLafFGws52_5b1iVanU8fM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216868935786-6eg4refh9nofaus7gbnjs1dmp44m3vfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
